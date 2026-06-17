@@ -1,0 +1,6 @@
+{
+  "name": "Vismora",
+  "description": "The Ultimate Visual Coding Universe - See DSA, languages, and programming concepts come alive with animated visualizers and Guru AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
